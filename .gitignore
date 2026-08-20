@@ -1,0 +1,5 @@
+*.elf
+*.self
+*.self.stock
+*.bin
+*.iso
